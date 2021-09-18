@@ -1,3 +1,16 @@
-/* Here is where we will write out our styles! */
-/* To write comments in a CSS file, you'll need */
-/* have a forward slash and asterix at the beginning and end. */
+/* Here is where we will write out our styles! 
+To write comments in a CSS file, you'll need to
+have a forward slash and asterix at the beginning and end of a line */
+.center {
+  margin: auto;
+  width: 40%;
+  border: 6px solid green;
+  padding: 10px;
+	background-color: blue;
+}
+
+.header {
+	border: 3px solid green;
+	background-color: aqua;
+}
+
